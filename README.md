@@ -1,2 +1,1 @@
-# Curly-Bello
-My Git
+
